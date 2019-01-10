@@ -75,8 +75,9 @@ We have run this test for 1 billion times.And the result is highly consistent wi
 this post:http://bbs.xmfish.com/read-htm-tid-3216284.html .You can also run this random roll test to verify it.
 
 ### Quick Run
-  1. cmake .
-  2. make
-  3. .
+  * 1. cmake .
+  * 2. make
+  * 3. ./randomseedtest
+### GO ON!
 
   
